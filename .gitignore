@@ -37,3 +37,8 @@ yarn-error.log*
 next-env.d.ts
 
 .contentlayer
+
+# hide projects
+/app/projects
+/content/projects
+```
