@@ -28,13 +28,15 @@ export default function Home() {
         className="absolute inset-0 -z-10 animate-fade-in"
         quantity={200}
       />
-      <h1 className="z-10 py-10 text-5xl text-transparent duration-1000 bg-red-800 hover:bg-red-600 cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">
+      <h1 className="z-10 py-10 text-5xl text-transparent duration-1000 bg-green-800 hover:bg-green-600 cursor-default text-edge-outline animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">
         PRISTINZ
       </h1>
 
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-16 text-center animate-fade-in">
-        <h2 className="text-lg md:text-2xl text-zinc-500 ">Coming Soon...</h2>
+        <h2 className="text-lg md:text-2xl text-zinc-500 ">
+          Coming Soon by Kobar (syeh.ak@gmail.com)
+        </h2>
       </div>
     </div>
   );
