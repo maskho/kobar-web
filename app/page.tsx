@@ -34,7 +34,7 @@ export default function Home() {
 
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-16 text-center animate-fade-in">
-        <h2 className="text-lg md:text-2xl text-zinc-500 ">Coming Soon</h2>
+        <h2 className="text-lg md:text-2xl text-zinc-500 ">Coming Soon...</h2>
       </div>
     </div>
   );
